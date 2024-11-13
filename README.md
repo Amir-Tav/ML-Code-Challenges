@@ -19,8 +19,6 @@ Below are the completed challenges so far. This list will grow as I continue to 
 3. **Calculate Eigenvalues of a Matrix (medium)**  
 4. **Calculate Covariance Matrix (medium)** 
 
-## How to Contribute 🤝  
-Suggestions, improvements, and new challenge ideas are always welcome! Feel free to fork this repository and submit a pull request with your improvements or add your solutions to new challenges.
 
 ## Acknowledgments 🌐  
 A big thanks to [Deep-ML](https://www.deep-ml.com/) for providing these excellent daily challenges, and to the open-source community for inspiring collaborative learning in ML!
