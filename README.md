@@ -17,7 +17,8 @@ Below are the completed challenges so far. This list will grow as I continue to 
 1. **Solve Linear Equations using Jacobi Method (medium)** [Code](https://github.com/Amir-Tav/ML-Code-Challenges/blob/main/Linear%20Equations%20using%20Jacobi%20Method.ipynb), [Link](https://www.deep-ml.com/problem/Solve%20Linear%20Equations%20using%20Jacobi%20Method) 
 2. **Principal Component Analysis (PCA) Implementation (medium)** [Code](https://github.com/Amir-Tav/ML-Code-Challenges/blob/main/Principal%20Component%20Analysis%20(PCA)%20Implementation.ipynb), [Link](https://www.deep-ml.com/problem/Principal%20Component%20Analysis%20(PCA)%20Implementation)
 3. **Calculate Eigenvalues of a Matrix (medium)** [Code](https://github.com/Amir-Tav/ML-Code-Challenges/blob/main/Calculate%20Eigenvalues%20of%20a%20Matrix.ipynb), [Link](https://www.deep-ml.com/problem/Calculate%20Eigenvalues%20of%20a%20Matrix)
-4. **Calculate Covariance Matrix (medium)** [Code](https://github.com/Amir-Tav/ML-Code-Challenges/blob/main/Calculate%20Covariance%20Matrix.ipynb), [Link](https://github.com/Amir-Tav/ML-Code-Challenges/blob/main/Calculate%20Covariance%20Matrix.ipynb)
+4. **Calculate Covariance Matrix (medium)** [Code](https://github.com/Amir-Tav/ML-Code-Challenges/blob/main/Calculate%20Covariance%20Matrix.ipynb), [Link](https://www.deep-ml.com/problem/Calculate%20Covariance%20Matrix)
+5. **Calculate 2x2 Matrix Inverse (medium)** [Code](https://github.com/Amir-Tav/ML-Code-Challenges/blob/main/Calculate%202x2%20Matrix%20Inverse.ipynb), [Link](https://www.deep-ml.com/problem/Calculate%202x2%20Matrix%20Inverse)
 
 
 ## Acknowledgments 🌐  
