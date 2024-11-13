@@ -14,7 +14,7 @@ Each challenge solution is organized in Jupyter notebooks with code explanations
 ## Completed Challenges  
 Below are the completed challenges so far. This list will grow as I continue to tackle new tasks.  
 
-1. **Solve Linear Equations using Jacobi Method (medium)** 
+1. **[Solve Linear Equations using Jacobi Method (medium)]**(https://github.com/Amir-Tav/ML-Code-Challenges/blob/main/Linear%20Equations%20using%20Jacobi%20Method.ipynb), [Link](https://www.deep-ml.com/problem/Solve%20Linear%20Equations%20using%20Jacobi%20Method) 
 2. **Principal Component Analysis (PCA) Implementation (medium)**
 3. **Calculate Eigenvalues of a Matrix (medium)**  
 4. **Calculate Covariance Matrix (medium)** 
